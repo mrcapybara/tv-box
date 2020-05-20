@@ -1,0 +1,85 @@
+Mapeamento controle RC65SB (SKYHDTV)
+
+E3DC5833 -> Código final quando uma tecla é solta
+FFFFFFFF -> Código enviado quando uma tecla ainda está pressionada
+
+Mapeamento das teclas
+
+		Chave no Modo SKY
+	TV VIDEO        2FD28D7  (MESMO DA TV)
+	TELA TV         39767224
+	ON              6D8867D7
+	OFF             692D04A0
+	GUIA            427EBE9F
+	(QUADRADO)      9D65B0BC
+	LISTA           AB4D94A9
+	SAIR            34498102
+	SETA CIMA       F24119FE
+	SETA ESQ        C53794B4
+	CONFIRMA        75A956A7
+	SETA DIR        BC9DF06
+	SETA BAIX       B489062B
+	(RETORNO)       BB9BDEE7
+	MENU            76CF1379
+	?INFO           F640360
+	(VERMELHO)      C332FABB
+	(VERDE)         8C0B38A3
+	(AMARELO)       2591C110
+	(AZUL)          506AE98B
+	VOL +           2FD58A7  (MESMO DA TV)
+	VOL -           2FD7887  (MESMO DA TV)
+	(MUTE)          2FD08F7  (MESMO DA TV)
+	RET CH          5BFBFDE9
+	CH +            165412B7
+	CH -            5815B090
+	1               C9767F76
+	2               C8155AB1
+	3               B6996DAE
+	4               969AE844
+	5               4AAFAC67
+	6               9C2A936C
+	7               833ED333
+	8               55F2B93
+	9               DE78B0D0
+	DASH            BDE97C12
+	0               F32F72D7
+	i               3F23F43
+
+
+		Chave no modo TV
+	TV VIDEO        2FD28D7
+	TELA TV         NADA
+	ON              2FD48B7  (MESMA FUNÇÃO DO OFF)
+	OFF             2FD48B7  (MESMA FUNÇÃO DO ON)
+	GUIA            427EBE9F (MESMO DO SKY)
+	(QUADRADO)      9D65B0BC (MESMO DO SKY)
+	LISTA           AB4D94A9 (MESMO DO SKY)
+	SAIR            NADA
+	SETA CIMA       2FDD827
+	SETA ESQ        2FD7887
+	CONFIRMA        NADA
+	SETA DIR        2FD58A7
+	SETA BAIX       2FDF807
+	(RETORNO)       NADA
+	MENU            2FD708F
+	?INFO           F640360 (MESMO DO SKY)
+	VOL +           2FD58A7
+	VOL -           2FD7887
+	(MUTE)          2FD08F7
+	RET CH          2FD00FF
+	CH +            2FDD827
+	CH -            2FDF807
+	1               2FD807F
+	2               2FD40BF
+	3               2FDC03F
+	4               2FD20DF
+	5               2FDA05F
+	6               2FD609F
+	7               2FDE01F
+	8               2FD10EF
+	9               2FD906F
+	DASH            NADA
+	0               2FD00FF
+	i               3F23F43 (MESMO DO SKY)
+
+
